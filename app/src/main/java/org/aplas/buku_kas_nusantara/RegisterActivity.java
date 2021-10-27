@@ -12,9 +12,9 @@ import org.aplas.buku_kas_nusantara.Database.DBHelper;
 
 public class RegisterActivity extends AppCompatActivity {
 
-    EditText idUsernameRegister, idPasswordRegister, idPassword2Register ;
-    Button buttonRegister, buttonBack ;
-    DBHelper DB ;
+    EditText idUsernameRegister, idPasswordRegister, idPassword2Register;
+    Button buttonRegister, buttonBack;
+    DBHelper DB;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

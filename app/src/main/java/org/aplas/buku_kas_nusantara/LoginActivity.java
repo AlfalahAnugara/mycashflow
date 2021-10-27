@@ -12,8 +12,8 @@ import org.aplas.buku_kas_nusantara.Database.DBHelper;
 
 public class LoginActivity extends AppCompatActivity {
 
-    EditText idUsername, idPassword ;
-    Button buttonLogin, buttonRegister ;
+    EditText idUsername, idPassword;
+    Button buttonLogin, buttonRegister;
     DBHelper DB;
 
     @Override
@@ -29,7 +29,7 @@ public class LoginActivity extends AppCompatActivity {
 
         buttonLogin.setOnClickListener(new View.OnClickListener() {
             @Override
-            public void onClick(View view) {
+            public void onClick(View v) {
                 String user = idUsername.getText().toString();
                 String pass = idPassword.getText().toString();
 

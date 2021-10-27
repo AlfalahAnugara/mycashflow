@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidProject/BukuKasNusantara/app/src/main/res/layout/activity_home.xml" value="0.1621376811594203" />
         <entry key="..\:/AndroidProject/BukuKasNusantara/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/BukuKasNusantara/app/src/main/res/layout/activity_register.xml" value="0.25" />
       </map>
     </option>
   </component>
