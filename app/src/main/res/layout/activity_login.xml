@@ -19,7 +19,7 @@
         app:srcCompat="@drawable/liquid" />
 
         <TextView
-            android:id="@+id/textAplikasi"
+            android:id="@+id/textApp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="24dp"
@@ -47,7 +47,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
-            app:layout_constraintTop_toBottomOf="@+id/textAplikasi" />
+            app:layout_constraintTop_toBottomOf="@+id/textApp" />
 
         <EditText
             android:id="@+id/idPassword"
